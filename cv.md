@@ -11,3 +11,12 @@ I have started my career in fashion industry working all over Asia for 3 years. 
 * JavaScript Basics
 * Git, GitHub
 * Adobe Photoshop, Figma
+### Experience
+[RS School CV project]()
+### Education
+* RS Schools Course «JavaScript/Front-end. Stage 0» (December 2022 - March 2023)
+* Russian State University for the Humanities, Cultural Studies major (2021 - 2025)
+### Languages
+* English - C1
+I have been working in English speaking environment in different countries for 3 years.
+* Russian - native
