@@ -1,2 +1,2 @@
 # rsschool-cv
-Stage 0 CV task
+https://mariadlgsh.github.io/rsschool-cv/cv
