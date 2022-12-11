@@ -12,7 +12,7 @@ I have started my career in fashion industry working all over Asia for 3 years. 
 * Git, GitHub
 * Adobe Photoshop, Figma
 ### Experience
-[RS School CV project]()
+[RS School CV project](https://mariadlgsh.github.io/rsschool-cv/cv)
 ### Education
 * RS Schools Course «JavaScript/Front-end. Stage 0» (December 2022 - March 2023)
 * Russian State University for the Humanities, Cultural Studies major (2021 - 2025)
